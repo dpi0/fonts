@@ -1,1 +1,1 @@
-# fonts
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrainsMono&weight=700&size=75&duration=1500&pause=1500&color=F72260&center=true&vCenter=true&random=false&width=1300&height=80&lines=%3E+fonts;stolen+from+everywhere+:\))
