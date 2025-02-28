@@ -4,9 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/dpi0/fonts?style=flat-square&color=yellow" alt="Stars">
-  <img src="https://img.shields.io/github/forks/dpi0/fonts?style=flat-square" alt="Forks">
   <img src="https://img.shields.io/github/repo-size/dpi0/fonts?style=flat-square&color=red" alt="GitHub repo size">
-  <img src="https://img.shields.io/github/contributors/dpi0/fonts?style=flat-square&color=pink" alt="Contributors">
   <img src="https://img.shields.io/github/license/dpi0/fonts?style=flat-square" alt="License">
 </p>
 
