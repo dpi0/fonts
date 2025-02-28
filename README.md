@@ -1,12 +1,24 @@
-# Fonts
+<div align = "center">
 
-All open-source fonts I've collected for personal use, except **San Francisco Fonts**.
+<h1>fonts</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/dpi0/fonts?style=flat-square&color=yellow" alt="Stars">
+  <img src="https://img.shields.io/github/forks/dpi0/fonts?style=flat-square" alt="Forks">
+  <img src="https://img.shields.io/github/repo-size/dpi0/fonts?style=flat-square&color=red" alt="GitHub repo size">
+  <img src="https://img.shields.io/github/contributors/dpi0/fonts?style=flat-square&color=pink" alt="Contributors">
+  <img src="https://img.shields.io/github/license/dpi0/fonts?style=flat-square" alt="License">
+</p>
+
+<h4>Curated Collection of (Mostly) Open-Source Fonts except **San Francisco Fonts**</h4>
+
+</div>
 
 ## To Install Manually on Linux
 
 ```bash
-mkdir -p ~/.local/share/
-git clone --depth=1 https://github.com/dpi0/fonts $HOME/.local/share/
+mkdir -p $HOME/.local/share
+git clone --depth=1 https://github.com/dpi0/fonts $HOME/.local/share/fonts
 ```
 
 ## San Francisco
